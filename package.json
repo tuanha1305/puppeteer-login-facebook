@@ -1,0 +1,21 @@
+{
+  "name": "puppeteer-login-facebook",
+  "version": "1.0.0",
+  "description": "Auto login using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppteer",
+    "nodejs",
+    "auto",
+    "login",
+    "facebook"
+  ],
+  "author": "tuanict97",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.9.0"
+  }
+}
